@@ -1,0 +1,4 @@
+name: mxMacchinette
+version: '${project.version}'
+main: me.mxkeeesh.mxmacchinette.MxMacchinette
+api-version: '1.16'

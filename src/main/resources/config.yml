@@ -1,0 +1,13 @@
+cibo-1:
+  cmdata: 456
+  name: "&fPanino Imbottito"
+  prezzo: 30
+cibo-2:
+  cmdata: 455
+  name: "&fTramezzino Imbottito"
+  prezzo: 25
+cibo-3:
+  cmdata: 363
+  name: "&fKebab"
+  prezzo: 20
+
